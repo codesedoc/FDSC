@@ -1,0 +1,13 @@
+{
+    "approach": "kmcs",
+    "plm_name_or_path": "kmcs-bart",
+    "dataset": "ppf",
+    "output_dir": "tmp",
+    "gpu_per_trial": "0.5",
+    "variant": "wosc",
+    "individual_decoder": "True",
+    "disable_tqdm": "True",
+    "num_train_epochs": "1",
+    "num_trials": "32",
+    "flags": ["tune_hp"]
+}

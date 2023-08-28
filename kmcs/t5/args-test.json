@@ -1,0 +1,9 @@
+{
+    "approach": "kmcs",
+    "plm_name_or_path": "kmcs-t5",
+    "dataset": "ppf",
+    "output_dir": "tmp",
+    "variant": "self",
+    "individual_decoder": "False",
+    "flags": ["smoke_test", "do_train", "do_eval", "do_predict"]
+}
