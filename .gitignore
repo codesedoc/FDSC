@@ -1,0 +1,4 @@
+/.idea
+./**/*.pt
+.DS_Store
+/src/nlpx.egg-info
